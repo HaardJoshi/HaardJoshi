@@ -33,3 +33,7 @@
 </div>
 
 ###
+
+<img src="https://raw.githubusercontent.com/haardjoshi/haardjoshi/output/snake.svg" alt="Snake animation" />
+
+###
